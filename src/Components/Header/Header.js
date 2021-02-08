@@ -1,9 +1,8 @@
 import React from 'react';
 
 import "./Header.scss"
-
 export default () => (
-    <header>
+    <header className="nav">
     <ul>
     <li>
     <a href="/">Movies</a>
