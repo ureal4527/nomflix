@@ -28,6 +28,7 @@
     "redux-actions": "^2.6.5",
     "redux-pender": "^2.0.12",
     "styled-components": "^5.2.1",
+    "styled-reset": "^4.3.4",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
